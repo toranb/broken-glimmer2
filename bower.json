@@ -1,7 +1,7 @@
 {
   "name": "broken-glimmer2",
   "dependencies": {
-    "ember": "~2.8.1",
+    "ember": "2.9.0-beta.4",
     "ember-cli-shims": "0.1.1",
     "ember-qunit-notifications": "0.1.0"
   }
